@@ -1,5 +1,7 @@
 The major aim of this project is to gain insight into the sales data of Amazon to understand the different factors that affect sales of the different branches.
+
 Questions :
+
 Q1.What is the count of distinct cities in the dataset?
 
 Q2.For each branch, what is the corresponding city?
